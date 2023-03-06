@@ -1,0 +1,175 @@
+set:
+  "Family Guy":
+    tpdb_poster: 147806
+    seasons:
+      0: {tpdb_poster: 147807}
+      1: {tpdb_poster: 147808}
+      2: {tpdb_poster: 182208}
+      3: {tpdb_poster: 147810}
+      4: {tpdb_poster: 182210}
+      5: {tpdb_poster: 147812}
+      6: {tpdb_poster: 147813}
+      7: {tpdb_poster: 147814}
+      8: {tpdb_poster: 182214}
+      9: {tpdb_poster: 147816}
+      10: {tpdb_poster: 147817}
+      11: {tpdb_poster: 147818}
+      12: {tpdb_poster: 147819}
+      13: {tpdb_poster: 147820}
+      14: {tpdb_poster: 147821}
+      15: {tpdb_poster: 182221}
+      16: {tpdb_poster: 147823}
+      17: {tpdb_poster: 147824}
+      18: {tpdb_poster: 147825}
+      19: {tpdb_poster: 147826}
+      20: {tpdb_poster: 182226}
+      21: {tpdb_poster: 147828}
+
+  "The Simpsons":
+    tpdb_poster: 97063
+    seasons:
+      0: {tpdb_poster: 97064}
+      1: {tpdb_poster: 97185}
+      2: {tpdb_poster: 97066}
+      3: {tpdb_poster: 97067}
+      4: {tpdb_poster: 97068}
+      5: {tpdb_poster: 97069}
+      6: {tpdb_poster: 97190}
+      7: {tpdb_poster: 97071}
+      8: {tpdb_poster: 97110}
+      9: {tpdb_poster: 97073}
+      10: {tpdb_poster: 97194}
+      11: {tpdb_poster: 97075}
+      12: {tpdb_poster: 97076}
+      13: {tpdb_poster: 97077}
+      14: {tpdb_poster: 97078}
+      15: {tpdb_poster: 97079}
+      16: {tpdb_poster: 97080}
+      17: {tpdb_poster: 97081}
+      18: {tpdb_poster: 97082}
+      19: {tpdb_poster: 97083}
+      20: {tpdb_poster: 97122}
+      21: {tpdb_poster: 97205}
+      22: {tpdb_poster: 97124}
+      23: {tpdb_poster: 97207}
+      24: {tpdb_poster: 97126}
+      25: {tpdb_poster: 97089}
+      26: {tpdb_poster: 97090}
+      27: {tpdb_poster: 97091}
+      28: {tpdb_poster: 97092}
+      29: {tpdb_poster: 97093}
+      30: {tpdb_poster: 97094}
+      31: {tpdb_poster: 97133}
+      32: {tpdb_poster: 97096}
+      33: {tpdb_poster: 179276}
+      34: {tpdb_poster: 179277}
+
+  "South Park":
+    tpdb_poster: 147236
+    seasons:
+      0: {tpdb_poster: 147237}
+      1: {tpdb_poster: 147238}
+      2: {tpdb_poster: 147239}
+      3: {tpdb_poster: 147240}
+      4: {tpdb_poster: 147241}
+      5: {tpdb_poster: 182184}
+      6: {tpdb_poster: 147243}
+      7: {tpdb_poster: 147244}
+      8: {tpdb_poster: 147245}
+      9: {tpdb_poster: 147246}
+      10: {tpdb_poster: 182189}
+      11: {tpdb_poster: 147248}
+      12: {tpdb_poster: 147249}
+      13: {tpdb_poster: 182192}
+      14: {tpdb_poster: 147251}
+      15: {tpdb_poster: 147252}
+      16: {tpdb_poster: 182195}
+      17: {tpdb_poster: 147254}
+      18: {tpdb_poster: 147255}
+      19: {tpdb_poster: 182198}
+      20: {tpdb_poster: 147257}
+      21: {tpdb_poster: 147258}
+      22: {tpdb_poster: 147259}
+      23: {tpdb_poster: 147260}
+      24: {tpdb_poster: 147261}
+      25: {tpdb_poster: 222478}
+      26: {tpdb_poster: 318316}
+
+  "Futurama":
+    tpdb_poster: 150233
+    seasons:
+      0: {tpdb_poster: 150234}
+      1: {tpdb_poster: 150207}
+      2: {tpdb_poster: 150208}
+      3: {tpdb_poster: 150209}
+      4: {tpdb_poster: 150238}
+      5: {tpdb_poster: 150211}
+      6: {tpdb_poster: 150240}
+      7: {tpdb_poster: 150213}
+
+  "American Dad! (2005)":
+    tpdb_poster: 170263
+    seasons:
+      0: {tpdb_poster: 182230}
+      1: {tpdb_poster: 170242}
+      2: {tpdb_poster: 170243}
+      3: {tpdb_poster: 170244}
+      4: {tpdb_poster: 170245}
+      5: {tpdb_poster: 170246}
+      6: {tpdb_poster: 170247}
+      7: {tpdb_poster: 170248}
+      8: {tpdb_poster: 170249}
+      9: {tpdb_poster: 170250}
+      10: {tpdb_poster: 182240}
+      11: {tpdb_poster: 182241}
+      12: {tpdb_poster: 170253}
+      13: {tpdb_poster: 182243}
+      14: {tpdb_poster: 170255}
+      15: {tpdb_poster: 170256}
+      16: {tpdb_poster: 182246}
+      17: {tpdb_poster: 170258}
+      18: {tpdb_poster: 170259}
+      19: {tpdb_poster: 202183}
+
+  "Yellowstone":
+    tpdb_poster: 156053
+    seasons:
+      0: {tpdb_poster: 293984}
+      1: {tpdb_poster: 156054}
+      2: {tpdb_poster: 156055}
+      3: {tpdb_poster: 156056}
+      4: {tpdb_poster: 156057}
+      5: {tpdb_poster: 284095}
+
+  "1883":
+    tpdb_poster: 287902
+    seasons:
+      0: {tpdb_poster: 287903}
+      1: {tpdb_poster: 287904}
+
+  "1923":
+    tpdb_poster: 287905
+    seasons:
+      0: {tpdb_poster: 293982}
+      1: {tpdb_poster: 293983}
+
+  "Stranger Things (2016)":
+    url_poster: https://theposterdb.com/api/assets/17309
+    seasons:
+      1: {url_poster: https://theposterdb.com/api/assets/18059}
+      2: {url_poster: https://theposterdb.com/api/assets/18060}
+      3: {url_poster: https://theposterdb.com/api/assets/18061}
+      4: {url_poster: https://theposterdb.com/api/assets/254461}
+
+  "Carnival Row":
+    url_poster: https://theposterdb.com/api/assets/34658
+    seasons:
+      1: {url_poster: https://theposterdb.com/api/assets/34659}
+      2: {url_poster: https://theposterdb.com/api/assets/321976}
+
+  "Truth Be Told":
+    url_poster: https://theposterdb.com/api/assets/171857
+    seasons:
+      1: {url_poster: https://theposterdb.com/api/assets/171858}
+      2: {url_poster: https://theposterdb.com/api/assets/171859}
+      3: {url_poster: https://theposterdb.com/api/assets/313892}
